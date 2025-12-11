@@ -57,8 +57,8 @@
   "Projects & Areas/Archived.md": "LiArchive",
   "+/RECENTS.base": "LiClock",
   "+/SimilarLinks.md": "LiLink",
-  "x/Assets": "LiStickyNote",
-  "x/Scripts": "LiFileCode2",
-  "x/Templates": "LiLayoutTemplate",
-  "x/Bases": "LiDatabase"
+  "X/Assets": "LiStickyNote",
+  "X/Bases": "LiDatabase",
+  "X/Scripts": "LiFileCode2",
+  "X/Templates": "LiLayoutTemplate"
 }

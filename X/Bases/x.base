@@ -1,0 +1,67 @@
+filters:
+  or:
+    - file.folder.startsWith("X")
+formulas:
+  Year Modified: created.year
+  "Outlink #": file.links.length
+  Links: file.backlinks.length
+  Parent Folder: file.folder.split("/")[-1]
+  folder_list: |-
+    [
+      ["ACE", "🌐"],
+      ["Flight", "🚀"],
+      ["You in Review", "🪞"],
+      ["Packs", "📦"],
+      ["Prompts", "📢"],
+      ["Templates", "📋"],
+      ["Canvas", "✍️"],
+      ["Excalidraw", "🖌️"],
+      ["Images", "🌉"],
+      ["PDFs", "📓"],
+      ["Visuals", "🌅"],
+      ["x/x/z", "📜"],
+      ["x", "𝙓"]
+    ]
+  check_folders: formula.folder_list.filter(file.folder.contains(value[0]))[0]
+  Folder Group: if(formula.check_folders, formula.check_folders[0], "")
+  ✨: if(formula.check_folders, formula.check_folders[1], "")
+properties:
+  formula.Year Modified:
+    displayName: Created (Year)
+  file.links:
+    displayName: Outlinks
+  formula.Links:
+    displayName: "Inlink #"
+  file.backlinks:
+    displayName: Inlinks
+views:
+  - type: table
+    name: Templates by folder
+    filters:
+      and:
+        - file.folder.contains("x/Templates")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - formula.✨
+      - file.name
+      - up
+      - related
+      - created
+      - wayfinder
+      - file.tags
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.up: 81
+      note.related: 80
+      note.created: 87
+      note.collections: 179
+  - type: table
+    name: "-"
+  - type: table
+    name: --

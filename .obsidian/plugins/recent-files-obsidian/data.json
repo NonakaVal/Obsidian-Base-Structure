@@ -1,68 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "🏡",
-      "path": "🏡.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "reset-all-property-by-folder",
+      "path": "X/Scripts/organizacao_obsidian/reset-all-property-by-folder.py"
+    },
+    {
+      "basename": "get-index-note",
+      "path": "X/Scripts/organizacao_obsidian/get-index-note.py"
+    },
+    {
+      "basename": "config",
+      "path": "X/Scripts/organizacao_obsidian/config.py"
+    },
+    {
+      "basename": "ChanGe-Templates-Folder",
+      "path": "X/Scripts/organizacao_obsidian/ChanGe-Templates-Folder.py"
+    },
+    {
+      "basename": "obsidian-vault-translator",
+      "path": "X/Scripts/ferramentas_diversas/obsidian-vault-translator.py"
+    },
+    {
+      "basename": "ipynbToMarkdown",
+      "path": "X/Scripts/ferramentas_diversas/ipynbToMarkdown.py"
+    },
+    {
+      "basename": "gca",
+      "path": "X/Scripts/ferramentas_diversas/gca.py"
+    },
+    {
+      "basename": "epub-manga-generator",
+      "path": "X/Scripts/ferramentas_diversas/epub-manga-generator.py"
+    },
+    {
+      "basename": "+",
+      "path": "X/Bases/+.base"
+    },
+    {
+      "basename": "🏠",
+      "path": "🏠.md"
+    },
+    {
+      "basename": "x",
+      "path": "X/Bases/x.base"
     },
     {
       "basename": "como + funciona",
       "path": "+/como + funciona.md"
     },
     {
-      "basename": "x",
-      "path": "x/Bases/x.base"
-    },
-    {
-      "basename": "VISUALS",
-      "path": "x/Bases/VISUALS.base"
-    },
-    {
-      "basename": "RECENTS",
-      "path": "x/Bases/RECENTS.base"
-    },
-    {
-      "basename": "ORPHANAGE",
-      "path": "x/Bases/ORPHANAGE.base"
-    },
-    {
-      "basename": "MAPS",
-      "path": "x/Bases/MAPS.base"
-    },
-    {
-      "basename": "@_areas",
-      "path": "x/Assets/Dataview/@_areas.md"
-    },
-    {
-      "basename": "+",
-      "path": "x/Bases/+.base"
-    },
-    {
       "basename": "Memos",
       "path": "Memos/Memos.md"
     },
     {
+      "basename": "@_Architect",
+      "path": "X/Assets/Dataview/@_Architect.md"
+    },
+    {
+      "basename": "VISUALS",
+      "path": "X/Bases/VISUALS.base"
+    },
+    {
+      "basename": "RECENTS",
+      "path": "X/Bases/RECENTS.base"
+    },
+    {
+      "basename": "ORPHANAGE",
+      "path": "X/Bases/ORPHANAGE.base"
+    },
+    {
+      "basename": "MAPS",
+      "path": "X/Bases/MAPS.base"
+    },
+    {
+      "basename": "@_areas",
+      "path": "X/Assets/Dataview/@_areas.md"
+    },
+    {
       "basename": "hotkeys",
-      "path": "x/Assets/hotkeys.md"
+      "path": "X/Assets/hotkeys.md"
     },
     {
       "basename": "@ Garden & Archtect Review",
-      "path": "x/Assets/Dataview/@ Garden & Archtect Review.md"
+      "path": "X/Assets/Dataview/@ Garden & Archtect Review.md"
     },
     {
       "basename": "@-templates",
-      "path": "x/Assets/Dataview/@-templates.md"
+      "path": "X/Assets/Dataview/@-templates.md"
     },
     {
       "basename": "A-Weekly Note Template",
-      "path": "x/Templates/Format/A-Weekly Note Template.md"
+      "path": "X/Templates/Format/A-Weekly Note Template.md"
     },
     {
       "basename": "A-Daily Note Template",
-      "path": "x/Templates/Format/A-Daily Note Template.md"
+      "path": "X/Templates/Format/A-Daily Note Template.md"
     },
     {
       "basename": "between notes apresentation",
@@ -75,10 +111,6 @@
     {
       "basename": "arch-gca-lazy-commit-config",
       "path": "Code/Config/arch-gca-lazy-commit-config.md"
-    },
-    {
-      "basename": "🏠",
-      "path": "🏠.md"
     },
     {
       "basename": "_index_notas",
@@ -138,7 +170,7 @@
     },
     {
       "basename": "Similar-Search",
-      "path": "x/Scripts/organizacao_obsidian/Similar-Search.py"
+      "path": "X/Scripts/organizacao_obsidian/Similar-Search.py"
     },
     {
       "basename": "algumas reflexões existencias",
@@ -159,38 +191,6 @@
     {
       "basename": "2025-12",
       "path": "Calendar & Review/Monthly Notes/2025-12.md"
-    },
-    {
-      "basename": "2025-11-12",
-      "path": "Calendar & Review/Daily Notes/2025-11-12.md"
-    },
-    {
-      "basename": "2025-11-08",
-      "path": "Calendar & Review/Daily Notes/2025-11-08.md"
-    },
-    {
-      "basename": "2025-11-07",
-      "path": "Calendar & Review/Daily Notes/2025-11-07.md"
-    },
-    {
-      "basename": "2025-11-06",
-      "path": "Calendar & Review/Daily Notes/2025-11-06.md"
-    },
-    {
-      "basename": "2025-11-05",
-      "path": "Calendar & Review/Daily Notes/2025-11-05.md"
-    },
-    {
-      "basename": "2025-11-04",
-      "path": "Calendar & Review/Daily Notes/2025-11-04.md"
-    },
-    {
-      "basename": "2025-11-03",
-      "path": "Calendar & Review/Daily Notes/2025-11-03.md"
-    },
-    {
-      "basename": "_ input templater",
-      "path": "x/Templates/Snippet/_ input templater.md"
     }
   ],
   "omittedPaths": [],
