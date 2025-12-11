@@ -1,0 +1,344 @@
+{
+  "main": {
+    "id": "2178b4b13ad8d220",
+    "type": "split",
+    "children": [
+      {
+        "id": "a68b00ab7a898c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0628f3b57859e0de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da223467db4c9158",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ba83bbb7904c6a3",
+        "type": "tabs",
+        "dimension": 40.803382663847785,
+        "children": [
+          {
+            "id": "b34c0f902b1265c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c3dcb494a0674c29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e0f7509dece0369f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "f7119f2528338e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5bf066390432bfba",
+        "type": "tabs",
+        "dimension": 59.19661733615222,
+        "children": [
+          {
+            "id": "f8e7e9bde23996cf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754810098116,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "8f66a18f0bf0f3cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "e9e7b35f8e4576f0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 488.5
+  },
+  "right": {
+    "id": "3703f7d8eaeb01fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e9b6b7a7b97459",
+        "type": "tabs",
+        "dimension": 53.153153153153156,
+        "children": [
+          {
+            "id": "2386ef8588c3dc8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ebc49deb54dd0f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "40be355d2ebab86f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "Propriedades dos arquivos"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3954ea8e597c4a31",
+        "type": "tabs",
+        "dimension": 46.846846846846844,
+        "children": [
+          {
+            "id": "c133cbfbc6b00289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7a2141420f060740",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🏠.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🏠"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "bases:Criar nova base": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "vscode-editor:Create Code File": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "gridexplorer:Open grid view": false,
+      "callout-manager:Insert Callout": true,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b34c0f902b1265c0",
+  "lastOpenFiles": [
+    "X/Assets/hotkeys.md",
+    "X/Assets/Dataview/@ Garden & Archtect Review.md",
+    "Memos/2025-12-11-memo-memo.md",
+    "Projects & Areas/Areas/area/area.md",
+    "Projects & Areas/Areas/area",
+    "Projects & Areas/Areas",
+    "Projects & Areas",
+    "X/Templates/Snippet/%-das.md",
+    "Memos",
+    "X/Assets/Dataview/@-templates.md",
+    "X/Templates/Format/A-Weekly Note Template.md",
+    "X/Templates/Format/A-Daily Note Template.md",
+    "Calendar & Review/Daily Notes/2025-12-11.md",
+    "Bem-vindo.md",
+    "Calendar & Review/Daily Notes",
+    "Calendar & Review",
+    "X/Media/Images/new.md",
+    "+",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/obsidian-css-snippets/Snippets/Sentences.md",
+    "+/RECENTS.base",
+    "Code/Config/arch-gca-lazy-commit-config.md",
+    "🏠.md",
+    "_index_notas.md",
+    "Projects & Areas/Projects/Archives/my first book/mapas-galaticos.md",
+    "X/Scripts/output-A-Z.html",
+    "X/Scripts/output.html",
+    "Projects & Areas/Projects/Archives/my first book/definitions/1-resumo-ideia-base.md",
+    "Projects & Areas/Archived.md",
+    "Projects & Areas/Projects/Archives/my first book/2025-05-11-my first book.md",
+    "Projects & Areas/Projects/Archives/my first book/conceitos/visão-geral-von.md",
+    "Life Domains/20 Focus Areas/22 Family/22.2 Duda/Duda.md",
+    "Life Domains/20 Focus Areas/22 Family/22.1 Harry/bbHarry.md",
+    "+/SimilarLinks.md",
+    "Calendar & Review/Daily Notes/2025-12-09.md",
+    "Knowlegde/_Books.md",
+    "X/Assets/Dataview/@_Architect.md",
+    "+/nen-system-hxh.canvas",
+    "X/Media/Images/Pasted image 20251209000400.png",
+    "X/Media/Images/Pasted image 20251209000351.png",
+    "X/Media/Images/Pasted image 20251209000350.png",
+    "X/Media/Images/Pasted image 20251209000247.png",
+    "X/Media/Images/quickadd usecases - 2025-12-08.png",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/obsidian-css-snippets/Snippets/Folding arrows/demo.png",
+    "X/Media/Images/2025-11-26-memo-quotes.png",
+    "X/Media/Images/human.png",
+    "X/Media/Images/em.png",
+    "X/Media/Images/bio.png",
+    "Projects & Areas/Projects/Archives/independent/webdesign/web.design.canvas",
+    "Projects & Areas/Projects/Ongoing/Obsidian Community/Untitled.canvas",
+    "Knowlegde/Maps &  Index/34.2 Maps/+_CANVAS_AOC.canvas",
+    "Knowlegde/Maps &  Index/34.2 Maps/+_CANVAS-DATASCIENCE.canvas",
+    "Knowlegde/34 Maps &  Index/34.2 Maps/mapa-pkm.canvas",
+    "Sem título.canvas",
+    "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS_AOC.canvas",
+    "30 Knowlegde/34 Maps &  Index/34.2 Maps/mapa-pkm.canvas",
+    "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS_AOC 1.canvas"
+  ]
+}

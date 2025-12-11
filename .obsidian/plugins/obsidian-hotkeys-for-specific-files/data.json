@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "useMoment": false,
+      "file": "🏠.md"
+    },
+    {
+      "useMoment": false,
+      "file": "X/Scripts/organizacao_obsidian/Similar-Search.py"
+    }
+  ],
+  "useExistingPane": true,
+  "useHoverEditor": false
+}
