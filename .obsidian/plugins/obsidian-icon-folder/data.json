@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
+      "LiBaseline",
       "LiLink",
       "LiClock",
-      "LiArchive",
-      "LiMessageSquareCode",
-      "LiFileCode2"
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,15 +49,16 @@
   "Projects & Areas/Projects/Archived.md": "LiArchive",
   "Projects & Areas/Areas/Obsidian Community": "LiNotebookTabs",
   "Projects & Areas/Areas/Content Creation": "LiShare2",
-  "X/Assets": "LiStickyNote",
-  "X/Templates": "LiLayoutTemplate",
   "X/Media": "🖼",
   "Faith and Philosophy": "LiAmpersand",
   "Code": "LiCode",
   "Life Domains": "LiStars",
   "Life Domains/Music & Games & Movies": "LiMusic",
-  "X/Scripts": "LiFileCode2",
   "Projects & Areas/Archived.md": "LiArchive",
   "+/RECENTS.base": "LiClock",
-  "+/SimilarLinks.md": "LiLink"
+  "+/SimilarLinks.md": "LiLink",
+  "x/Assets": "LiStickyNote",
+  "x/Scripts": "LiFileCode2",
+  "x/Templates": "LiLayoutTemplate",
+  "x/Bases": "LiDatabase"
 }

@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "🏡",
+      "path": "🏡.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "como + funciona",
+      "path": "+/como + funciona.md"
+    },
+    {
+      "basename": "x",
+      "path": "x/Bases/x.base"
+    },
+    {
+      "basename": "VISUALS",
+      "path": "x/Bases/VISUALS.base"
+    },
+    {
+      "basename": "RECENTS",
+      "path": "x/Bases/RECENTS.base"
+    },
+    {
+      "basename": "ORPHANAGE",
+      "path": "x/Bases/ORPHANAGE.base"
+    },
+    {
+      "basename": "MAPS",
+      "path": "x/Bases/MAPS.base"
+    },
+    {
+      "basename": "@_areas",
+      "path": "x/Assets/Dataview/@_areas.md"
+    },
+    {
+      "basename": "+",
+      "path": "x/Bases/+.base"
+    },
+    {
+      "basename": "Memos",
+      "path": "Memos/Memos.md"
+    },
+    {
       "basename": "hotkeys",
-      "path": "X/Assets/hotkeys.md"
+      "path": "x/Assets/hotkeys.md"
     },
     {
       "basename": "@ Garden & Archtect Review",
-      "path": "X/Assets/Dataview/@ Garden & Archtect Review.md"
+      "path": "x/Assets/Dataview/@ Garden & Archtect Review.md"
     },
     {
       "basename": "@-templates",
-      "path": "X/Assets/Dataview/@-templates.md"
+      "path": "x/Assets/Dataview/@-templates.md"
     },
     {
       "basename": "A-Weekly Note Template",
-      "path": "X/Templates/Format/A-Weekly Note Template.md"
+      "path": "x/Templates/Format/A-Weekly Note Template.md"
     },
     {
       "basename": "A-Daily Note Template",
-      "path": "X/Templates/Format/A-Daily Note Template.md"
+      "path": "x/Templates/Format/A-Daily Note Template.md"
     },
     {
       "basename": "between notes apresentation",
@@ -94,7 +138,7 @@
     },
     {
       "basename": "Similar-Search",
-      "path": "X/Scripts/organizacao_obsidian/Similar-Search.py"
+      "path": "x/Scripts/organizacao_obsidian/Similar-Search.py"
     },
     {
       "basename": "algumas reflexões existencias",
@@ -146,51 +190,7 @@
     },
     {
       "basename": "_ input templater",
-      "path": "X/Templates/Snippet/_ input templater.md"
-    },
-    {
-      "basename": "2025 Week 49",
-      "path": "Calendar & Review/Weekly Notes/2025 Week 49.md"
-    },
-    {
-      "basename": "why obsidian is for devs",
-      "path": "Projects & Areas/Projects/Ongoing/Obsidian community and pkm channel/why obsidian is for devs.md"
-    },
-    {
-      "basename": "A maldição da mente descontinua",
-      "path": "Projects & Areas/Projects/Ongoing/Obsidian community and pkm channel/A maldição da mente descontinua.md"
-    },
-    {
-      "basename": "dashboard-navigator-main-getPropsPerFile-js",
-      "path": "Code/Functions/dashboard-navigator-main-getPropsPerFile-js.md"
-    },
-    {
-      "basename": "vscode-obsdiian-snippet-extension.js",
-      "path": "Code/Config/vscode-obsdiian-snippet-extension.js.md"
-    },
-    {
-      "basename": "arch-git-config",
-      "path": "Code/Config/arch-git-config.md"
-    },
-    {
-      "basename": "blog-with-obsidian-and-jekyll",
-      "path": "Life Domains/20 Focus Areas/24 Youtube PKM Channel/23.1 Roteiros/blog-with-obsidian-and-jekyll.md"
-    },
-    {
-      "basename": "alguns-desabafos-do-calendario",
-      "path": "Memos/alguns-desabafos-do-calendario.md"
-    },
-    {
-      "basename": "comparacao_duas_roots",
-      "path": "+/comparacao_duas_roots.md"
-    },
-    {
-      "basename": "gca command list ideas",
-      "path": "+/gca command list ideas.md"
-    },
-    {
-      "basename": "doc-Running Ruby Project with Gems",
-      "path": "Code/Doc/doc-Running Ruby Project with Gems.md"
+      "path": "x/Templates/Snippet/_ input templater.md"
     }
   ],
   "omittedPaths": [],
