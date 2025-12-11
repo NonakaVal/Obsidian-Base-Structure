@@ -1,0 +1,1 @@
+# my-Obsidian-base-structure
