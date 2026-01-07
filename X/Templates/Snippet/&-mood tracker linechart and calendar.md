@@ -95,7 +95,7 @@ if (chartData.length >= 2) {
 const root = dv.el("div","");
 root.style.cssText = `
     display:flex; flex-direction:column; gap:8px; color:#fff;
-    background: rgba(20,20,25,0.9); padding:10px; border-radius:10px; max-width:890px;
+    background: rgba(20,20,25,0.9); padding:10px; border-radius:10px; max-width:2890px;
 `;
 
 // ---------------------------

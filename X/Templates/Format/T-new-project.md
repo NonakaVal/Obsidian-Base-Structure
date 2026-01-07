@@ -5,29 +5,11 @@ type: project
 created: '[[<% tp.date.now("YYYY-MM-DD") %>]]'
 ---
 
-| Data Início                                              | Data Entrega                                              | Status                                                                                                         |
-| -------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| `INPUT[datePicker(showcase, defaultValue(null)):inicio]` | `INPUT[datePicker(showcase, defaultValue(null)):entrega]` | `INPUT[inlineSelect(option('In Progress'), option('Finished'), option('waiting'), option('to start')):status]` |
-
-```meta-bind-button
-label: Criar Nota de Projeto
-icon: plus
-hidden: false
-class: ""
-id: TEMPLATE-CRIAR-NOVA-NOTA-PROJETO
-style: default
-actions:
-  - type: command
-    command: quickadd:choice:47106046-31c4-44c7-9d17-6044352d6654
-```
-[^1]
 
 ---
 ## 🧾 Descrição do Projeto
 
-
-
-
+<%tp.file.cursor()%>
 
 
 
@@ -71,4 +53,3 @@ ___
     }); 
 }); -%>
 
-[^1]: `Alt + N`

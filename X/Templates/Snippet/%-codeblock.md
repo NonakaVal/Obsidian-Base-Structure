@@ -1,3 +1,3 @@
-```bash
+```
  <% tp.system.clipboard() %>
 ```

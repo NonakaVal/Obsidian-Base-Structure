@@ -1,11 +1,33 @@
+## Project List
+%%A snapshot of the project today%%
+<% LifeOS.Project.snapshot() %>
 
-<%-*
-const momentObj = moment(tp.file.title);
-const firstDayOfMonth = momentObj.clone().startOf("month");
-const firstDayOfWeek = firstDayOfMonth.clone().startOf("week");
-const offset = firstDayOfMonth.diff(firstDayOfWeek, "days");
-const weekOfMonth = Math.ceil((momentObj.date() + offset) / 7);
--%>
-<% weekOfMonth %>
+## Daily Record
+%%Your Record%%
 
+## Habit
+%%Habit will not be counted as a task%%
+- [ ] Drink a glass of water after wake up
+- [ ] Breakfast
+- Drink water
+	- [ ] +1
+	- [ ] +1
+	- [ ] +1
+	- [ ] +1
+	- [ ] +1
+	- [ ] +1
+- [ ] English learning course
+- [ ] Project time statistics
+- [ ] Household accounting
 
+## Energy allocation
+%%Today's project list, according to the time consumed, automatic statistics project time consumed percentage%%
+```LifeOS
+ProjectListByTime
+```
+
+## Completed today
+%%List of tasks completed today, extracted from all notes%%
+```LifeOS
+TaskDoneListByTime
+```

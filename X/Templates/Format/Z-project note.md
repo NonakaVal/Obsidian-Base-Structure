@@ -11,7 +11,7 @@ created: '[[<% tp.date.now("YYYY-MM-DD") %>]]'
 
 <%*
 // Get details about folder (change "Work/Meetings" to desired folder)
-const meetingsFolder = "Projects & Areas/Projects/Ongoing";
+const meetingsFolder = "00 Code/Projects";
 const meetingsTFolder = tp.app.vault.getAbstractFileByPath(meetingsFolder);
 const companies = meetingsTFolder.children.filter(subfolder => subfolder instanceof tp.obsidian.TFolder);
 let selectedCompany;
@@ -30,5 +30,3 @@ if (!selectedCompany) {
 await tp.file.move(`${meetingsFolder}/${selectedCompany}/${tp.file.title}`);
 -%>
 
-
-<%* tp.hooks.on_all_templates_executed(async () => { const file = tp.file.find_tfile(tp.file.path(true)); const value1 = tp.file.folder().split(" ").map(word => word.toLowerCase()).join("_"); const value2 = tp.file.title.split(" ").map(word => word.toLowerCase()).join("_"); await app.fileManager.processFrontMatter(file, (frontmatter) => { frontmatter["tags"] = `project/${value1}/${value2}`; }); }); -%>
