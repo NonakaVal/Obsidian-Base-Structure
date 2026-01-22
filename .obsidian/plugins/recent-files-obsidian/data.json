@@ -161,38 +161,6 @@
       "path": "X/Bases/x.base"
     },
     {
-      "basename": "reset-all-property-by-folder",
-      "path": "X/Scripts/organizacao_obsidian/reset-all-property-by-folder.py"
-    },
-    {
-      "basename": "get-index-note",
-      "path": "X/Scripts/organizacao_obsidian/get-index-note.py"
-    },
-    {
-      "basename": "config",
-      "path": "X/Scripts/organizacao_obsidian/config.py"
-    },
-    {
-      "basename": "ChanGe-Templates-Folder",
-      "path": "X/Scripts/organizacao_obsidian/ChanGe-Templates-Folder.py"
-    },
-    {
-      "basename": "obsidian-vault-translator",
-      "path": "X/Scripts/ferramentas_diversas/obsidian-vault-translator.py"
-    },
-    {
-      "basename": "ipynbToMarkdown",
-      "path": "X/Scripts/ferramentas_diversas/ipynbToMarkdown.py"
-    },
-    {
-      "basename": "gca",
-      "path": "X/Scripts/ferramentas_diversas/gca.py"
-    },
-    {
-      "basename": "epub-manga-generator",
-      "path": "X/Scripts/ferramentas_diversas/epub-manga-generator.py"
-    },
-    {
       "basename": "+",
       "path": "X/Bases/+.base"
     },

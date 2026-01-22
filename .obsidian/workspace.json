@@ -247,8 +247,8 @@
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "callout-manager:Insert Callout": false,
-      "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
