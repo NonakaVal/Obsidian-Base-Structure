@@ -1,18 +1,6 @@
 {
-  "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "+",
-  "attachmentFolderPath": "X/Media/Images",
-  "readableLineLength": true,
-  "foldHeading": true,
-  "rightToLeft": false,
-  "focusNewTab": true,
-  "foldIndent": true,
-  "autoConvertHtml": true,
   "userIgnoreFilters": [
-    "Projects & Areas/Projects/Ongoing/Vaults Preset Sale/Project Vault Setup Presets/Introduction to PKM/"
+    "X/"
   ],
-  "showLineNumber": true,
-  "trashOption": "local"
+  "showInlineTitle": false
 }

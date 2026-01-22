@@ -5,16 +5,156 @@
       "path": "🏠.md"
     },
     {
+      "basename": "NonakaLab Channel",
+      "path": "Projects & Areas/Areas/NonakaLab Channel/NonakaLab Channel.md"
+    },
+    {
+      "basename": "index-linux",
+      "path": "Index & Bases/Index/index-linux.md"
+    },
+    {
+      "basename": "index-biologia",
+      "path": "Index & Bases/Index/index-biologia.md"
+    },
+    {
+      "basename": "index-code-folder",
+      "path": "Index & Bases/Index/index-code-folder.md"
+    },
+    {
+      "basename": "index-pkm",
+      "path": "Index & Bases/Index/index-pkm.md"
+    },
+    {
+      "basename": "index-computer-science",
+      "path": "Index & Bases/Index/index-computer-science.md"
+    },
+    {
+      "basename": "index-datascience",
+      "path": "Index & Bases/Index/index-datascience.md"
+    },
+    {
+      "basename": "Aprendendo a Viver",
+      "path": "Knowlegde/Books/Aprendendo a Viver.md"
+    },
+    {
+      "basename": "Antifrágil (Nova edição) - Nassim Nicholas Taleb",
+      "path": "Knowlegde/Books/Antifrágil (Nova edição) - Nassim Nicholas Taleb.md"
+    },
+    {
+      "basename": "2026-01-22",
+      "path": "Calendar & Review/Daily Notes/2026-01-22.md"
+    },
+    {
+      "basename": "Sapiens História Breve da Humanidade - Yuval Noah Harari",
+      "path": "Knowlegde/Books/Sapiens História Breve da Humanidade - Yuval Noah Harari.md"
+    },
+    {
+      "basename": "@_areas",
+      "path": "X/Assets/Dataview/@_areas.md"
+    },
+    {
+      "basename": "Berserk Vol. 3 – Edição de Luxo",
+      "path": "Knowlegde/Books/Berserk Vol. 3 – Edição de Luxo.md"
+    },
+    {
+      "basename": "@_recent-created",
+      "path": "X/Assets/Dataview/@_recent-created.md"
+    },
+    {
+      "basename": "2025-12-31",
+      "path": "Calendar & Review/Daily Notes/2025-12-31.md"
+    },
+    {
+      "basename": "🏠 Homepage",
+      "path": "+/🏠 Homepage.md"
+    },
+    {
+      "basename": "2025-10-16",
+      "path": "Calendar & Review/Daily Notes/2025-10-16.md"
+    },
+    {
+      "basename": "2025-11-22",
+      "path": "Calendar & Review/Daily Notes/2025-11-22.md"
+    },
+    {
+      "basename": "2025-12-20",
+      "path": "Calendar & Review/Daily Notes/2025-12-20.md"
+    },
+    {
+      "basename": "2025-03-17",
+      "path": "Calendar & Review/Daily Notes/2025-03-17.md"
+    },
+    {
+      "basename": "2025-12-28",
+      "path": "Calendar & Review/Daily Notes/2025-12-28.md"
+    },
+    {
+      "basename": "2025-08-02",
+      "path": "Calendar & Review/Daily Notes/2025-08-02.md"
+    },
+    {
+      "basename": "@-task from folder",
+      "path": "Knowlegde/Code/Snippets/@-task from folder.md"
+    },
+    {
       "basename": "A-Daily Note Template",
       "path": "X/Templates/Format/A-Daily Note Template.md"
     },
     {
-      "basename": "File explorer styling - Folder description",
-      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/File explorer styling - Folder description.md"
+      "basename": "@-templates",
+      "path": "X/Assets/Dataview/@-templates.md"
+    },
+    {
+      "basename": "A-Monthly-note-template",
+      "path": "X/Templates/Format/A-Monthly-note-template.md"
+    },
+    {
+      "basename": "💡 Ideas List",
+      "path": "Ideias/💡 Ideas List.md"
+    },
+    {
+      "basename": "Structure Exemples",
+      "path": "Projects & Areas/Areas/NonakaLab Channel/Structure Exemples.md"
+    },
+    {
+      "basename": "Base-Youtube-Contents",
+      "path": "Index & Bases/Bases/Base-Youtube-Contents.base"
+    },
+    {
+      "basename": "2026-01-22-memo-memo 1",
+      "path": "Memos/2026-01-22-memo-memo 1.md"
+    },
+    {
+      "basename": "@-memos",
+      "path": "X/Assets/Dataview/@-memos.md"
+    },
+    {
+      "basename": "Visão Geral do Canal",
+      "path": "Projects & Areas/Areas/NonakaLab Channel/Visão Geral do Canal.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Pilares de Conteúdo",
+      "path": "Projects & Areas/Areas/NonakaLab Channel/Pilares de Conteúdo.md"
+    },
+    {
+      "basename": "Estilo de Edição",
+      "path": "Projects & Areas/Areas/NonakaLab Channel/Estilo de Edição.md"
+    },
+    {
+      "basename": "Tipos de Conteúdo",
+      "path": "Projects & Areas/Areas/NonakaLab Channel/Tipos de Conteúdo.md"
+    },
+    {
+      "basename": "Identidade Visual",
+      "path": "Projects & Areas/Areas/NonakaLab Channel/Identidade Visual.md"
+    },
+    {
+      "basename": "File explorer styling - Folder description",
+      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/File explorer styling - Folder description.md"
     },
     {
       "basename": "x",
@@ -57,144 +197,8 @@
       "path": "X/Bases/+.base"
     },
     {
-      "basename": "como + funciona",
-      "path": "+/como + funciona.md"
-    },
-    {
       "basename": "Memos",
       "path": "Memos/Memos.md"
-    },
-    {
-      "basename": "@_Architect",
-      "path": "X/Assets/Dataview/@_Architect.md"
-    },
-    {
-      "basename": "VISUALS",
-      "path": "X/Bases/VISUALS.base"
-    },
-    {
-      "basename": "RECENTS",
-      "path": "X/Bases/RECENTS.base"
-    },
-    {
-      "basename": "ORPHANAGE",
-      "path": "X/Bases/ORPHANAGE.base"
-    },
-    {
-      "basename": "MAPS",
-      "path": "X/Bases/MAPS.base"
-    },
-    {
-      "basename": "@_areas",
-      "path": "X/Assets/Dataview/@_areas.md"
-    },
-    {
-      "basename": "hotkeys",
-      "path": "X/Assets/hotkeys.md"
-    },
-    {
-      "basename": "@ Garden & Archtect Review",
-      "path": "X/Assets/Dataview/@ Garden & Archtect Review.md"
-    },
-    {
-      "basename": "@-templates",
-      "path": "X/Assets/Dataview/@-templates.md"
-    },
-    {
-      "basename": "A-Weekly Note Template",
-      "path": "X/Templates/Format/A-Weekly Note Template.md"
-    },
-    {
-      "basename": "between notes apresentation",
-      "path": "Projects & Areas/Projects/Ongoing/Obsidian community and pkm channel/between notes apresentation.md"
-    },
-    {
-      "basename": "RECENTS",
-      "path": "+/RECENTS.base"
-    },
-    {
-      "basename": "arch-gca-lazy-commit-config",
-      "path": "Code/Config/arch-gca-lazy-commit-config.md"
-    },
-    {
-      "basename": "_index_notas",
-      "path": "_index_notas.md"
-    },
-    {
-      "basename": "1-resumo-ideia-base",
-      "path": "Projects & Areas/Projects/Archives/my first book/definitions/1-resumo-ideia-base.md"
-    },
-    {
-      "basename": "Archived",
-      "path": "Projects & Areas/Archived.md"
-    },
-    {
-      "basename": "2025-05-11-my first book",
-      "path": "Projects & Areas/Projects/Archives/my first book/2025-05-11-my first book.md"
-    },
-    {
-      "basename": "visão-geral-von",
-      "path": "Projects & Areas/Projects/Archives/my first book/conceitos/visão-geral-von.md"
-    },
-    {
-      "basename": "Duda",
-      "path": "Life Domains/20 Focus Areas/22 Family/22.2 Duda/Duda.md"
-    },
-    {
-      "basename": "bbHarry",
-      "path": "Life Domains/20 Focus Areas/22 Family/22.1 Harry/bbHarry.md"
-    },
-    {
-      "basename": "SimilarLinks",
-      "path": "+/SimilarLinks.md"
-    },
-    {
-      "basename": "doc-tmux-basic-comands",
-      "path": "Code/+/doc-tmux-basic-comands.md"
-    },
-    {
-      "basename": "2025-12-08",
-      "path": "Calendar & Review/Daily Notes/2025-12-08.md"
-    },
-    {
-      "basename": "_OF_Obsidian-Python-Scripts_",
-      "path": "+/_OF_Obsidian-Python-Scripts_.txt"
-    },
-    {
-      "basename": "vídeos lol duda",
-      "path": "+/vídeos lol duda.md"
-    },
-    {
-      "basename": "concept-math-diferenca-dos-quadrados",
-      "path": "Knowlegde/Concept/2025-09-24-Thoughts-Concepts-Archived/concept-math-diferenca-dos-quadrados.md"
-    },
-    {
-      "basename": "concept-math-quadrado-de-um-binomio",
-      "path": "Knowlegde/Concept/2025-09-24-Thoughts-Concepts-Archived/concept-math-quadrado-de-um-binomio.md"
-    },
-    {
-      "basename": "Similar-Search",
-      "path": "X/Scripts/organizacao_obsidian/Similar-Search.py"
-    },
-    {
-      "basename": "algumas reflexões existencias",
-      "path": "Life Domains/Me/Faith and Philosophy/algumas reflexões existencias.md"
-    },
-    {
-      "basename": "SimilarLinks",
-      "path": "SimilarLinks.md"
-    },
-    {
-      "basename": "2025-09-25-jhonny-decimal-insight",
-      "path": "Knowlegde/Dots/2025-09-25-jhonny-decimal-insight.md"
-    },
-    {
-      "basename": "2025-11",
-      "path": "Calendar & Review/Monthly Notes/2025-11.md"
-    },
-    {
-      "basename": "2025-12",
-      "path": "Calendar & Review/Monthly Notes/2025-12.md"
     }
   ],
   "omittedPaths": [],

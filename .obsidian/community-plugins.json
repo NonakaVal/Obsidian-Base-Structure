@@ -6,7 +6,6 @@
   "obsidian-outliner",
   "url-into-selection",
   "quickadd",
-  "templater-obsidian",
   "tabs",
   "obsidian-icon-folder",
   "global-search-and-replace",
@@ -22,5 +21,9 @@
   "recent-files-obsidian",
   "settings-search",
   "vscode-editor",
-  "calendar"
+  "calendar",
+  "note-refactor-obsidian",
+  "periodic-notes",
+  "templater-obsidian",
+  "simple-banner"
 ]

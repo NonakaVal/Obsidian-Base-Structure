@@ -63,7 +63,7 @@
               },
               "format": {
                 "enabled": true,
-                "format": "- 🧭 {{value}} - {{time}} \\ [[{{date}}]]"
+                "format": "🧭 {{value}} - {{time}} \\ [[{{date}}]]"
               },
               "insertAfter": {
                 "enabled": true,
@@ -78,7 +78,7 @@
                 "direction": "below"
               },
               "prepend": false,
-              "task": false,
+              "task": true,
               "openFile": false,
               "fileOpening": {
                 "location": "tab",
@@ -157,6 +157,45 @@
               },
               "prepend": false,
               "task": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              }
+            },
+            {
+              "id": "683df764-8ea4-46df-8d89-f4e9576602fa",
+              "name": "✅ Task ",
+              "type": "Capture",
+              "command": true,
+              "appendLink": false,
+              "captureTo": "Calendar & Review/Daily Notes/{{date}}",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": true,
+                "createWithTemplate": true,
+                "template": "X/Templates/Format/A-Daily Note Template.md"
+              },
+              "format": {
+                "enabled": true,
+                "format": "✅ {{value}} - {{time}} \\ [[{{date}}]]"
+              },
+              "insertAfter": {
+                "enabled": true,
+                "after": "# Capture",
+                "insertAtEnd": true,
+                "considerSubsections": false,
+                "createIfNotFound": true,
+                "createIfNotFoundLocation": "bottom"
+              },
+              "newLineCapture": {
+                "enabled": false,
+                "direction": "below"
+              },
+              "prepend": false,
+              "task": true,
               "openFile": false,
               "fileOpening": {
                 "location": "tab",
@@ -786,7 +825,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "X/Templates",
+  "templateFolderPath": "X/Templates/Format",
   "announceUpdates": true,
   "version": "2.7.0",
   "globalVariables": {},
