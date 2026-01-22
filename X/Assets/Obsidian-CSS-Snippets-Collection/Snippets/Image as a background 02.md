@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/fsE8GIl.png
+---
+
 ↪[Collection](Collection.md)
 
 # Image as a background 02

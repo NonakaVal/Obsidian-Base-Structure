@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/qVSE6Vp.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Callout without icon

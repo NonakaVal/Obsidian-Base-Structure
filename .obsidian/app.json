@@ -1,6 +1,8 @@
 {
-  "userIgnoreFilters": [
-    "X/"
-  ],
-  "showInlineTitle": false
+  "userIgnoreFilters": null,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+",
+  "attachmentFolderPath": "X/Media"
 }

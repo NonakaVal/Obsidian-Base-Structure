@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/OL69KyI.png
+---
+
 ↪[Collection](Collection.md)
 
 # Image as a background 01

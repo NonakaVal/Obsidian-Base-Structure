@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/KNfB1GQ.png
+---
+
 ↪[Collection](Collection.md)
 
 # Progress bar styling

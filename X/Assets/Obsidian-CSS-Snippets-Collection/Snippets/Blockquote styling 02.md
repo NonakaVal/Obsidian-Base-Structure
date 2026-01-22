@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/KuFyzsu.png
+---
+
 ↪[Collection](Collection.md)
 
 # Blockquote styling 02

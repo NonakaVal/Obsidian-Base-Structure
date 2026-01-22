@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/fTqcg5Y.png
+---
+
 ↪[Collection](Collection.md)
 
 # Coloured ribbon

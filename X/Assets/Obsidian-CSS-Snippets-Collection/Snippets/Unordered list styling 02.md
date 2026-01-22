@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/ZicMDLz.png
+---
+
 ↪[Collection](Collection.md)
 
 # Unordered list styling 02

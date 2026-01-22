@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/yp6CiNn.png
+---
+
 ↪[Collection](Collection.md)
 
 # Checkboxes - Origami theme

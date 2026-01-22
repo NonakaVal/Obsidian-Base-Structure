@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/iQ1G46S.png
+---
+
 ↪[Collection](Collection.md)
 
 # Kanban styling - Notion like Kanban board

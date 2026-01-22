@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/YN56k3S.png
+---
+
 ↪[Collection](Collection.md)
 
 # Card view

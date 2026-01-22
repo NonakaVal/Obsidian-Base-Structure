@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/1gctisH.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Command palette styling 01

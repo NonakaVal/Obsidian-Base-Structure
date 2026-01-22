@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/gOTmA75.png
+---
+
 ↪[Collection](Collection.md)
 
 # Checkboxes - AnuPpuccin theme

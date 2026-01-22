@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/EcIdMeF.png
+---
+
 ↪[Collection](Collection.md)
 
 # Vertical label arrangement

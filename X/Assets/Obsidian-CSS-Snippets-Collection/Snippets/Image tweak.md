@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/xcJUzKw.png
+---
+
 ↪[Collection](Collection.md)
 
 # Image minimal tweak

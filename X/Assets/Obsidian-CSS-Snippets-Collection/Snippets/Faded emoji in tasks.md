@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/dTY63UO.png
+---
+
 ↪[Collection](Collection.md)
 
 # Faded emoji in tasks

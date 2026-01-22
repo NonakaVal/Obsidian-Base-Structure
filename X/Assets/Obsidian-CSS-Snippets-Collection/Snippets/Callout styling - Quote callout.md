@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/lBP1wae.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Quote callout

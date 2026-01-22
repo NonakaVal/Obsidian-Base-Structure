@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/Adi7Eyi.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Hide window button panel

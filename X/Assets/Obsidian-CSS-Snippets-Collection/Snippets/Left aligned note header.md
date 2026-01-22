@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/pyjIskI.png
+---
+
 ↪[Collection](Collection.md)
 
 # Left aligned note header (minimal tweak)

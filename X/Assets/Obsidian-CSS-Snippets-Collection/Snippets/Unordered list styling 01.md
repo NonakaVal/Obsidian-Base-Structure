@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/kWNrs1Q.png
+---
+
 ↪[Collection](Collection.md)
 
 # Unordered list styling 01

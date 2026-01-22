@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/J5rze2u.png
+---
+
 ↪[Collection](Collection.md)
 
 # Checkboxes - Minimal theme

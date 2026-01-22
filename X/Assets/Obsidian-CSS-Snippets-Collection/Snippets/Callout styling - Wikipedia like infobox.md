@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/iiY9lqW.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Wikipedia like infobox

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/ocKrrzy.png
+---
+
 ↪[Collection](Collection.md)
 
 # Icon before headings

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/5TESm09.png
+---
+
 ↪[Collection](Collection.md)
 
 # Compact tabs

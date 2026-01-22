@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/oXNlnHH.png
+---
+
 ↪[Collection](Collection.md)
 
 # Popover Border (minimal tweak)

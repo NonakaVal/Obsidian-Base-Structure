@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/kEcixGq.png
+---
+
 ↪[Collection](Collection.md)
 
 # Tag styling 01

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/izbQq7Q.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout Styling 02

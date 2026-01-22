@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/P1V3vIJ.png
+---
+
 ↪[Collection](Collection.md)
 
 # Colourful headings underline and divider

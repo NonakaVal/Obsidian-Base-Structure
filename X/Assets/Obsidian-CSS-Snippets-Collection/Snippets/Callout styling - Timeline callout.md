@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/UzllmA4.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Timeline callout

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/na2WAxm.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Loading screen tweak

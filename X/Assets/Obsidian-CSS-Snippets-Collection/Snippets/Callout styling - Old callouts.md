@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/yQy1Vem.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Old callouts

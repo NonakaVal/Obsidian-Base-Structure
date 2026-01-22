@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/BndqHMj.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Folder structure callout

@@ -7,7 +7,6 @@
     "hidePropertiesBase",
     "MCL Multi Column",
     "MCL Wide Views",
-    "imageGallery",
     "StyleCallouts",
     "cards",
     "prismCalloutStyling",
@@ -23,10 +22,10 @@
     "Sidenote in Tufte-style using Sidenote-Auto-Adjust-Module",
     "Sidenote Auto-Adjust Module showcase-template"
   ],
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "showRibbon": true,
   "cssTheme": "",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "accentColor": "",
   "nativeMenus": false
 }

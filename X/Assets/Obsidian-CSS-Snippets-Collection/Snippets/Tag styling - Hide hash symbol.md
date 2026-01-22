@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/wqMrZpi.png
+---
+
 ↪[Collection](Collection.md)
 
 # Tag styling - Hide hash symbol

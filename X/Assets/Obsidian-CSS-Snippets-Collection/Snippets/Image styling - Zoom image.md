@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/ObcCIWz.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Image styling - Zoom image

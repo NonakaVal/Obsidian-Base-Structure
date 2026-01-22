@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/Ew0oJi0.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout icon to the top right corner

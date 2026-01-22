@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/WzApq7M.png
+---
+
 ↪[Collection](Collection.md)
 
 # External link styling 01

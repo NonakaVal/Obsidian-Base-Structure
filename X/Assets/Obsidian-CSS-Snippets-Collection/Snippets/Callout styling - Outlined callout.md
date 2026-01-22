@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/d7Cz7m1.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Outlined callout

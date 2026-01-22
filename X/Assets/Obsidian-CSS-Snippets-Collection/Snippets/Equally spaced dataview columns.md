@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/fU7LRj3.png
+---
+
 ↪[Collection](Collection.md)
 
 # Equally spaced dataview columns

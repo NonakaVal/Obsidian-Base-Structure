@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/MsmvCh8.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Empty tab styling

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/mquPDHu.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Collapsible image caption callout

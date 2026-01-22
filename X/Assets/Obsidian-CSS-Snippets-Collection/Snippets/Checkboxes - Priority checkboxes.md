@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/acGvB3R.png
+---
+
 ↪[Collection](Collection.md)
 
 # Checkboxes - Priority checkboxes

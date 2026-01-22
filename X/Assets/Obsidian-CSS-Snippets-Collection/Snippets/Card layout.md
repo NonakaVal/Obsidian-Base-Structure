@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/ZRV5Y1v.png
+---
+
 ↪[Collection](Collection.md)
 
 # Card layout

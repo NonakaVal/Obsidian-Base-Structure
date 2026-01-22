@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/oFWH7MM.png
+---
+
 ↪[Collection](Collection.md)
 
 # Coloured tab header container

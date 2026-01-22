@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/Tpxc3uJ.png
+---
+
 ↪[Collection](Collection.md)
 
 # Table styling - Centred table

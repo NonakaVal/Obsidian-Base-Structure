@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/LiMKSfo.png
+---
+
 ↪[Collection](Collection.md)
 
 # Checkboxes - SlRvb's checkboxes (ITS theme)

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/KnhS6VY.png
+---
+
 ↪[Collection](Collection.md)
 
 # Accented settings side headings

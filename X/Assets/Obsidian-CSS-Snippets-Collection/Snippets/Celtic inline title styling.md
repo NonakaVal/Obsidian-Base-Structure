@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/cMSMue3.png
+---
+
 ↪[Collection](Collection.md)
 
 # Celtic inline title styling

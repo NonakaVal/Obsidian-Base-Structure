@@ -4,54 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "886c09722a1aefed",
+        "id": "50524fefcc348f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "2eea6ab02315a97e",
+            "id": "3fcba4a223d06b4d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "🏠"
+              "title": "README"
             }
           },
           {
-            "id": "1cc89237341adb28",
+            "id": "2ae25e95b04e2293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index & Bases/Index/index-linux.md",
-                "mode": "source",
+                "file": "Credits & Attribution.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index-linux"
+              "title": "Credits & Attribution"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "50e0819f0b84b066",
+        "type": "tabs",
+        "children": [
           {
-            "id": "47a3dc6f78945767",
+            "id": "db989aa8a3728574",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Projects & Areas/Areas/NonakaLab Channel/NonakaLab Channel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "NonakaLab Channel"
+              "icon": "lucide-git-fork",
+              "title": "Graph of README"
             }
           }
         ]
@@ -113,20 +141,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠"
+              "title": "Outline of README"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 357.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "3703f7d8eaeb01fd",
@@ -157,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🏠.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 🏠"
+              "title": "File properties for README"
             }
           },
           {
@@ -195,12 +224,26 @@
             }
           },
           {
+            "id": "42a6ccda79921454",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
             "id": "245a49aab2c5cdb7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,21 +253,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🏠"
-            }
-          },
-          {
-            "id": "42a6ccda79921454",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🏠.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 🏠"
+              "title": "Backlinks for README"
             }
           }
         ],
@@ -232,10 +261,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 461.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "periodic-notes:Open today": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -247,49 +278,47 @@
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "callout-manager:Insert Callout": false,
-      "vscode-editor:Create Code File": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2eea6ab02315a97e",
+  "active": "3fcba4a223d06b4d",
   "lastOpenFiles": [
-    "Projects & Areas/Areas/NonakaLab Channel/NonakaLab Channel.md",
+    "Obsidian-Base-Structure.zip",
+    "Arquivo compactado.zip",
+    "Arquivo compactado.zip.mgrjwp.part",
+    "Index & Bases/X.base",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Author callout.md",
+    "Credits & Attribution.md",
+    "README.md",
+    "+/Base structure.md",
     "🏠.md",
-    "Index & Bases/Index/index-linux.md",
-    "Index & Bases/Index/index-biologia.md",
-    "Index & Bases/Index/index-code-folder.md",
-    "Index & Bases/Index/index-pkm.md",
-    "Index & Bases/Index/index-computer-science.md",
-    "Index & Bases/Index/index-datascience.md",
-    "Knowlegde/Books/Aprendendo a Viver.md",
-    "Index & Bases/Index/_folder_index_01_INDEX.md",
-    "Knowlegde/Books/Antifrágil (Nova edição) - Nassim Nicholas Taleb.md",
-    "Calendar & Review/Daily Notes/2026-01-22.md",
-    "Knowlegde/Books/Sapiens História Breve da Humanidade - Yuval Noah Harari.md",
+    "X/Templates/Format/A-Daily Note Template.md",
+    "+/3 headspaces ACE.md",
+    "X/Assets/Dataview/@-assets.md",
+    "X/Assets/Dataview/@_vault-snippets-dates.md",
+    "X/Assets/Dataview/@_modified.md",
+    "X/Assets/Dataview/@_Garden.md",
     "X/Assets/Dataview/@_areas.md",
-    "Knowlegde/Books/Berserk Vol. 3 – Edição de Luxo.md",
-    "X/Assets/Dataview/@_recent-created.md",
-    "Calendar & Review/Daily Notes/2025-12-31.md",
-    "Knowlegde/Books/Berserk Vol. 2 – Edição de Lu.md",
-    "Knowlegde/Books/How to Develop a Super Power Memory - Harry Lorayne.md",
-    "Knowlegde/Books/Berserk Vol. 1 – Edição de Luxo.md",
-    "Knowlegde/Books/A Arte da Guerra - Sun Tsu.md",
-    "Knowlegde/Books",
-    "+/🏠 Homepage.md",
-    "Calendar & Review/Daily Notes/2025-10-16.md",
-    "Calendar & Review/Daily Notes/2025-11-22.md",
-    "Calendar & Review/Daily Notes/2025-12-20.md",
-    "Calendar & Review/Daily Notes/2025-03-17.md",
-    "Knowlegde/Code/Snippets",
-    "Knowlegde/Code",
-    "Knowlegde",
-    "Calendar & Review/Daily Notes",
-    "Calendar & Review",
-    "Ideias",
-    "Index & Bases/Bases/Base-Youtube-Contents.base",
-    "Memos",
-    "Projects & Areas/Areas/NonakaLab Channel",
+    "X/Assets/Dataview/@-templates.md",
+    "X/Assets/Dataview/@_Efforts.md",
+    "Calendar & Review/Daily Notes/2026-01-22.md",
+    "X/Assets/Hotkeys.md",
+    "README (2).md",
+    "create a link.md",
+    "Index & Bases/+.base",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/LICENSE.md",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/css snippets collection.md",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Blockquote styling 02.md",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Accented settings side headings.md",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Banner.md",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Callout styling - Callout without icon.md",
+    "X/Assets/Obsidian-CSS-Snippets-Collection/obsidian-css-snippets/README.md",
+    "X/Bases/+.base",
+    "X/Bases/x.base",
+    "X/Bases/VISUALS.base",
+    "X/Bases/RECENTS.base",
+    "X/Bases/ORPHANAGE.base",
+    "X/Bases/MAPS.base",
     "+/nen-system-hxh.canvas",
     "X/Media/Images/Pasted image 20251209000400.png",
     "X/Media/Images/Pasted image 20251209000351.png",

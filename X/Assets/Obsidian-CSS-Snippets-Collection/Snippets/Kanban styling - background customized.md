@@ -1,3 +1,7 @@
+---
+cover: https://i.pinimg.com/originals/0a/de/07/0ade07fe59d1e3d892a26e7e3dc1de3f.png
+---
+
 ↪[Collection](Collection.md)
 
 # Kanban styling - background customized

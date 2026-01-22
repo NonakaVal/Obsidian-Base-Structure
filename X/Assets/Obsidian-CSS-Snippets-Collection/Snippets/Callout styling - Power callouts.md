@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/bdbC8Pz.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Power callouts

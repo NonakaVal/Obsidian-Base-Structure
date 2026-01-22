@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/ai6x8Ha.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Tabbed callout

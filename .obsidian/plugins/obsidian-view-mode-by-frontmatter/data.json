@@ -22,23 +22,15 @@
       "viewMode": "obsidianUIMode: preview"
     },
     {
-      "filePattern": "Plano de Geral",
-      "viewMode": "obsidianUIMode: preview"
-    },
-    {
-      "filePattern": "_ Audio Recording Buttons",
-      "viewMode": "obsidianUIMode: preview"
-    },
-    {
       "filePattern": "@-templates",
       "viewMode": "obsidianUIMode: preview"
     },
     {
-      "filePattern": "_index_notas",
+      "filePattern": "README",
       "viewMode": "obsidianUIMode: preview"
     },
     {
-      "filePattern": "_Books",
+      "filePattern": "Credits & Attribution",
       "viewMode": "obsidianUIMode: preview"
     }
   ]

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/VzcAJXe.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Image description when hover

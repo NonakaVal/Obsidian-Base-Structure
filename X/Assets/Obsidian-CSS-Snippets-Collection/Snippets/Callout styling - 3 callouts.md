@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/beca3NA.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - 3 callouts

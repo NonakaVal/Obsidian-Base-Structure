@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/4Twe0hL.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Link styling 01

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/p9i7Mdb.png
+---
+
 ↪[Collection](Collection.md)
 
 # Kanban styling - background based on tag

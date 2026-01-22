@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/4qQrLIN.png
+---
+
 ↪[Collection](Collection.md)
 
 # Heading indicators 02

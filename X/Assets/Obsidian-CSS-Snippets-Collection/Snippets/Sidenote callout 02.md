@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/EfL7ROv.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Sidenote callout 02

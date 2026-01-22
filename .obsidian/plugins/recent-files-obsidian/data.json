@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "X",
+      "path": "Index & Bases/X.base"
+    },
+    {
+      "basename": "Author callout",
+      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Author callout.md"
+    },
+    {
+      "basename": "Credits & Attribution",
+      "path": "Credits & Attribution.md"
+    },
+    {
+      "basename": "Base structure",
+      "path": "+/Base structure.md"
+    },
+    {
       "basename": "🏠",
       "path": "🏠.md"
+    },
+    {
+      "basename": "A-Daily Note Template",
+      "path": "X/Templates/Format/A-Daily Note Template.md"
+    },
+    {
+      "basename": "3 headspaces ACE",
+      "path": "+/3 headspaces ACE.md"
+    },
+    {
+      "basename": "@-assets",
+      "path": "X/Assets/Dataview/@-assets.md"
+    },
+    {
+      "basename": "@_vault-snippets-dates",
+      "path": "X/Assets/Dataview/@_vault-snippets-dates.md"
+    },
+    {
+      "basename": "@_modified",
+      "path": "X/Assets/Dataview/@_modified.md"
+    },
+    {
+      "basename": "@_Garden",
+      "path": "X/Assets/Dataview/@_Garden.md"
+    },
+    {
+      "basename": "@_areas",
+      "path": "X/Assets/Dataview/@_areas.md"
+    },
+    {
+      "basename": "@-templates",
+      "path": "X/Assets/Dataview/@-templates.md"
+    },
+    {
+      "basename": "@_Efforts",
+      "path": "X/Assets/Dataview/@_Efforts.md"
+    },
+    {
+      "basename": "2026-01-22",
+      "path": "Calendar & Review/Daily Notes/2026-01-22.md"
+    },
+    {
+      "basename": "Hotkeys",
+      "path": "X/Assets/Hotkeys.md"
+    },
+    {
+      "basename": "+",
+      "path": "Index & Bases/+.base"
+    },
+    {
+      "basename": "Blockquote styling 02",
+      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Blockquote styling 02.md"
+    },
+    {
+      "basename": "Accented settings side headings",
+      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Accented settings side headings.md"
+    },
+    {
+      "basename": "Banner",
+      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Banner.md"
+    },
+    {
+      "basename": "Callout styling - Callout without icon",
+      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/Callout styling - Callout without icon.md"
     },
     {
       "basename": "NonakaLab Channel",
@@ -41,16 +125,8 @@
       "path": "Knowlegde/Books/Antifrágil (Nova edição) - Nassim Nicholas Taleb.md"
     },
     {
-      "basename": "2026-01-22",
-      "path": "Calendar & Review/Daily Notes/2026-01-22.md"
-    },
-    {
       "basename": "Sapiens História Breve da Humanidade - Yuval Noah Harari",
       "path": "Knowlegde/Books/Sapiens História Breve da Humanidade - Yuval Noah Harari.md"
-    },
-    {
-      "basename": "@_areas",
-      "path": "X/Assets/Dataview/@_areas.md"
     },
     {
       "basename": "Berserk Vol. 3 – Edição de Luxo",
@@ -97,14 +173,6 @@
       "path": "Knowlegde/Code/Snippets/@-task from folder.md"
     },
     {
-      "basename": "A-Daily Note Template",
-      "path": "X/Templates/Format/A-Daily Note Template.md"
-    },
-    {
-      "basename": "@-templates",
-      "path": "X/Assets/Dataview/@-templates.md"
-    },
-    {
       "basename": "A-Monthly-note-template",
       "path": "X/Templates/Format/A-Monthly-note-template.md"
     },
@@ -131,42 +199,6 @@
     {
       "basename": "Visão Geral do Canal",
       "path": "Projects & Areas/Areas/NonakaLab Channel/Visão Geral do Canal.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Pilares de Conteúdo",
-      "path": "Projects & Areas/Areas/NonakaLab Channel/Pilares de Conteúdo.md"
-    },
-    {
-      "basename": "Estilo de Edição",
-      "path": "Projects & Areas/Areas/NonakaLab Channel/Estilo de Edição.md"
-    },
-    {
-      "basename": "Tipos de Conteúdo",
-      "path": "Projects & Areas/Areas/NonakaLab Channel/Tipos de Conteúdo.md"
-    },
-    {
-      "basename": "Identidade Visual",
-      "path": "Projects & Areas/Areas/NonakaLab Channel/Identidade Visual.md"
-    },
-    {
-      "basename": "File explorer styling - Folder description",
-      "path": "X/Assets/Obsidian-CSS-Snippets-Collection/Snippets/File explorer styling - Folder description.md"
-    },
-    {
-      "basename": "x",
-      "path": "X/Bases/x.base"
-    },
-    {
-      "basename": "+",
-      "path": "X/Bases/+.base"
-    },
-    {
-      "basename": "Memos",
-      "path": "Memos/Memos.md"
     }
   ],
   "omittedPaths": [],

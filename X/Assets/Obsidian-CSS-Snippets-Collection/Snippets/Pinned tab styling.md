@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/1Shx6tI.png
+---
+
 ↪[Collection](Collection.md)
 
 # Pinned tab styling

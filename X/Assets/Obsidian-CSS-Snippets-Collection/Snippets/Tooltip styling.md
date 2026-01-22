@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/wyGvM7S.png
+---
+
 ↪[Collection](Collection.md)
 
 # Tooltip styling

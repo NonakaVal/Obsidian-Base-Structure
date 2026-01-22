@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/GD4gqWJ.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Hide titlebar buttons and freeze the right-sidedock toggle button position

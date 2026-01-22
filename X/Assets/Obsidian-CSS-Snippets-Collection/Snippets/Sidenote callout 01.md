@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/z64RVEY.png
+---
+
 a💬💬💬↪[Collection](Collection.md)
 
 # Sidenote callout 01

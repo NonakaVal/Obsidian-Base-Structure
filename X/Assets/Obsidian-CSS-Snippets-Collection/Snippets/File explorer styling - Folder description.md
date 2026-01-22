@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/UsB7YMQ.png
+---
+
 ↪[Collection](Collection.md)
 
 # File explorer styling - Folder description

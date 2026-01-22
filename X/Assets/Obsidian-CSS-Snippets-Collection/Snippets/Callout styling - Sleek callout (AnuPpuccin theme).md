@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/oDUzADg.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Sleek callout (AnuPpuccin theme)

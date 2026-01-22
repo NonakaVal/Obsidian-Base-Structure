@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/rd71oCp.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Text styling - Spoiler text

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/yJDlOAx.png
+---
+
 ↪[Collection](Collection.md)
 
 # Checkboxes - Progress bar checkboxes

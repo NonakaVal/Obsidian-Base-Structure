@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/vjXhJdp.png
+---
+
 ↪[Collection](Collection.md)
 
 # File explorer styling - Rainbow folder titles

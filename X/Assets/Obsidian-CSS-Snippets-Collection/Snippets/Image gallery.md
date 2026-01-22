@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/heTNDVW.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Image gallery

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/8zFYyGV.png
+---
+
 ↪[Collection](Collection.md)
 
 # Properties into two columns

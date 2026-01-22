@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/nSnLYXO.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Scroller callout

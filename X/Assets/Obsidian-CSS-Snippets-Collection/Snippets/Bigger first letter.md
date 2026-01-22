@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/zDjkb9m.png
+---
+
 ↪[Collection](Collection.md)
 
 # Bigger first letter

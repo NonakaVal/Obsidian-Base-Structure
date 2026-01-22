@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/JS0E9Sz.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Properties on hover

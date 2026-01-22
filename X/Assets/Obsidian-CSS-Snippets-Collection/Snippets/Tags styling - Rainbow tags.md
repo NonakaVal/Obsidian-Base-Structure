@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/QahcMIX.png
+---
+
 ↪[Collection](Collection.md)
 
 # Tags styling - Rainbow tags

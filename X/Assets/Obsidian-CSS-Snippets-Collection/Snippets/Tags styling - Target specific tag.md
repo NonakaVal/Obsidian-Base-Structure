@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/HhjZpgh.png
+---
+
 ↪[Collection](Collection.md)
 
 # Tags styling - Target specific tag

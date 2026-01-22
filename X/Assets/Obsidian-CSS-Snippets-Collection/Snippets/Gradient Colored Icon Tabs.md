@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/JDNmpNe.png
+---
+
 ↪[Collection](Collection.md)
 
 # Gradient Colored Icon Tabs

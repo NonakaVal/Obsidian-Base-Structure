@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/yVG3f3o.png
+---
+
 ↪[Collection](Collection.md)
 
 # Table styling - Left column header

@@ -1,3 +1,8 @@
+---
+tags:
+
+cover: https://i.imgur.com/Fe9ACem.jpg
+---
 ↪[Collection](Collection.md)
 
 # Banner

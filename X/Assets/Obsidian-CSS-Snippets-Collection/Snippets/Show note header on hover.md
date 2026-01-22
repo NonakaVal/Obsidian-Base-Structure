@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/pptQgvz.gif
+---
+
 ↪[Collection](Collection.md)
 # Show note header on hover
 

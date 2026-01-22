@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/RaXMuJB.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout Styling 01 - Prism theme callout

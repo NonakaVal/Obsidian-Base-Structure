@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/EtCIye8.png
+---
+
 ↪[Collection](Collection.md)
 
 # Canvas styling - Gradient canvas cards

@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/WA4nplM.png
+---
+
 ↪[Collection](Collection.md)
 
 # File explorer styling - Folder headers

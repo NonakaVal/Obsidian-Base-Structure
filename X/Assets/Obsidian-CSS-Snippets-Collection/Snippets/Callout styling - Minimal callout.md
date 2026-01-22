@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/nmyuR4y.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Minimal callout

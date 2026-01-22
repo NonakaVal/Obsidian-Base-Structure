@@ -19,7 +19,7 @@ week: '[[<% tp.date.now("YYYY [Week] WW") %>]]'
 _Start your day by writing down what you're grateful for to foster a sense of contentment and appreciation_
 - 
 
-- [ ] 
+
 
 ---
 
@@ -35,7 +35,7 @@ _Start your day by writing down what you're grateful for to foster a sense of co
 # Something good
 _Recall and note down positive events from my day, no matter how small._
 
-- [ ] 
+
 
 
 

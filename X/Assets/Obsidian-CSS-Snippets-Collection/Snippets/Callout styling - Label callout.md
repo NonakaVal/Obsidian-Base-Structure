@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/vVuVZYy.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Label callout

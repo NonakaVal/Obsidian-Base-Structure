@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/n0bH8ST.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Leader list callout

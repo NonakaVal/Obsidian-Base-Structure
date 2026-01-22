@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/cQDGkox.png
+---
+
 ↪[Collection](Collection.md)
 
 # Callout styling - Celtic callout border

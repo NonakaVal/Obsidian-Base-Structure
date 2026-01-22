@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/FCwk5lw.gif
+---
+
 ↪[Collection](Collection.md)
 
 # Ribbon styling - Hide ribbon on collapse

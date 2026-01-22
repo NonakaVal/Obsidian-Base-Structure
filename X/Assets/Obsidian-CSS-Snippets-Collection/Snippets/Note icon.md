@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/M5CM6Ip.png
+---
+
 ↪[Collection](Collection.md)
 
 # Note icon

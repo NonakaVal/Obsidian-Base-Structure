@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/2PuEAwx.png
+---
+
 ↪[Collection](Collection.md)
 
 # Author callout

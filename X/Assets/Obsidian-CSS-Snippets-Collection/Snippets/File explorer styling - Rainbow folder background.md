@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/zjZHS82.png
+---
+
 ↪[Collection](Collection.md)
 
 # File explorer styling - Rainbow folder background

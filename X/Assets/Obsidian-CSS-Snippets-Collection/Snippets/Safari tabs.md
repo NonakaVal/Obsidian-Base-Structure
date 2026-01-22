@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/TwpaIDT.png
+---
+
 ↪[Collection](Collection.md)
 
 # Tabs styling - Safari tabs

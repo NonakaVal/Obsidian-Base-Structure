@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/1rH0K30.png
+---
+
 ↪[Collection](Collection.md)
 
 # Tabs styling - Square tabs

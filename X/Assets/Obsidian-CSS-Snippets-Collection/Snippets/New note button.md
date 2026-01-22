@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/N1Sbvj2.png
+---
+
 ↪[Collection](Collection.md)
 
 # New note button

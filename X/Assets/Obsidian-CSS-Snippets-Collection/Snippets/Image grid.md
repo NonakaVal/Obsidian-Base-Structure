@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/WVW4rKV.png
+---
+
 ↪[Collection](Collection.md)
 
 # Image grid

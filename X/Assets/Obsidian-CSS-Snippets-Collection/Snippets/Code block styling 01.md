@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/EX3aQgt.png
+---
+
 ↪[Collection](Collection.md)
 
 # Code block styling 01

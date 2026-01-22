@@ -1,3 +1,7 @@
+---
+cover: https://i.imgur.com/0krxxi2.png
+---
+
 ↪[Collection](Collection.md)
 
 # Multicolumn note
